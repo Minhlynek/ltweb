@@ -37,68 +37,6 @@
             color: var(--text-main);
             line-height: 1.6;
         }
-
-        /* Navbar */
-        .navbar {
-            background: rgba(255, 255, 255, 0.9);
-            backdrop-filter: blur(10px);
-            border-bottom: 1px solid var(--gray-border);
-            position: sticky;
-            top: 0;
-            z-index: 100;
-            padding: 1rem 0;
-        }
-
-        .nav-container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 1.5rem;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .logo {
-            display: flex;
-            align-items: center;
-            gap: 0.75rem;
-            text-decoration: none;
-            font-weight: 800;
-            font-size: 1.25rem;
-            color: var(--primary);
-        }
-
-        .logo-icon {
-            width: 40px;
-            height: 40px;
-            background: linear-gradient(135deg, var(--primary), var(--accent));
-            color: white;
-            border-radius: 10px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 1.2rem;
-        }
-
-        .nav-links {
-            display: flex;
-            gap: 1.5rem;
-            align-items: center;
-            list-style: none;
-        }
-
-        .nav-links a {
-            text-decoration: none;
-            color: var(--text-main);
-            font-weight: 600;
-            font-size: 0.95rem;
-            transition: color 0.2s;
-        }
-
-        .nav-links a:hover, .nav-links a.active {
-            color: var(--primary);
-        }
-
         /* Header banner */
         .page-header {
             background: linear-gradient(135deg, #312e81 0%, #4338ca 100%);
@@ -301,21 +239,7 @@
 </head>
 <body>
 
-    <!-- Navbar -->
-    <nav class="navbar">
-        <div class="nav-container">
-            <a href="index.php" class="logo">
-                <div class="logo-icon">🎓</div>
-                <span>EduSchedule</span>
-            </a>
-            <ul class="nav-links">
-                <li><a href="index.php">Trang Chủ</a></li>
-                <li><a href="about.php" class="active">Giới Thiệu Nhóm & Đề Tài</a></li>
-                <li><a href="README.md" target="_blank">Hướng Dẫn Run (README)</a></li>
-            </ul>
-        </div>
-    </nav>
-
+ 
     <!-- Page Header -->
     <header class="page-header">
         <h1>Giới Thiệu Nhóm & Đề Tài Dự Án</h1>
@@ -434,11 +358,6 @@
         </div>
 
     </div>
-
-    <!-- Footer -->
-    <footer>
-        <p>&copy; <?php echo date('Y'); ?> Nhóm Dự Án Lập Trình Web - Trường Đại Học. Tất cả các quyền được bảo lưu.</p>
-    </footer>
 
 </body>
 </html>
