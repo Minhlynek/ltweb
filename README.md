@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 1. Môi Trường & Yêu Cầu Hệ Thống
+## 1. Môi Trường & Yêu Cầu Hệ Thống
 
 Dự án được xây dựng và kiểm thử trên môi trường **XAMPP (Windows OS)** với các thông số kỹ thuật chính xác như sau:
 
@@ -24,9 +24,9 @@ Dự án được xây dựng và kiểm thử trên môi trường **XAMPP (Win
 
 ---
 
-## 🚀 2. Hướng Dẫn Cài Đặt & Chạy Dự Án (Getting Started)
+## 2. Hướng Dẫn Cài Đặt & Chạy Dự Án (Getting Started)
 
-### 📥 Bước 1: Clone Repository từ GitHub về máy
+### Bước 1: Clone Repository từ GitHub về máy
 Mở **Command Prompt**, **Git Bash**, hoặc **PowerShell** trên máy tính của bạn và thực hiện lệnh:
 
 ```bash
@@ -42,14 +42,14 @@ cd ltweb
 
 ---
 
-### ⚡ Bước 2: Khởi động XAMPP Control Panel
+### Bước 2: Khởi động XAMPP Control Panel
 1. Mở ứng dụng **XAMPP Control Panel** trên Windows.
 2. Nhấn nút **Start** tại dịch vụ **Apache** (Web Server).
 3. Nhấn nút **Start** tại dịch vụ **MySQL** (Database Server).
 
 ---
 
-### 🌐 Bước 3: Truy cập hệ thống trên Trình Duyệt Web
+### Bước 3: Truy cập hệ thống trên Trình Duyệt Web
 Sau khi Apache & MySQL đã khởi chạy thành công, hãy mở trình duyệt web (Chrome, Edge, Firefox, ...) và truy cập các đường dẫn sau:
 
 * **Trang chủ hệ thống (Giới thiệu chung):**  
@@ -60,7 +60,7 @@ Sau khi Apache & MySQL đã khởi chạy thành công, hãy mở trình duyệt
 
 ---
 
-## 👥 3. Thành Viên Nhóm Phát Triển
+## 3. Thành Viên Nhóm Phát Triển
 
 1. **Lê Thị Minh Lý** *(Trưởng Nhóm)* - Fullstack Developer & Quản lý dự án
 2. **Lê Phương Anh** - Frontend Developer (UI/UX)
@@ -70,7 +70,7 @@ Sau khi Apache & MySQL đã khởi chạy thành công, hãy mở trình duyệt
 
 ---
 
-## 📂 4. Cấu Trúc Thư Mục Dự Án (Hiện Tại)
+## 4. Cấu Trúc Thư Mục Dự Án (Hiện Tại)
 
 ```text
 c:\xampp\htdocs\ltweb\
@@ -82,5 +82,5 @@ c:\xampp\htdocs\ltweb\
 
 ---
 
-## 💡 5. Liên Hệ & Đóng Góp
+## 5. Liên Hệ & Đóng Góp
 Nếu có thắc mắc hoặc cần góp ý cho dự án, vui lòng truy cập [Repository GitHub](https://github.com/Minhlynek/ltweb) hoặc liên hệ nhóm phát triển.
