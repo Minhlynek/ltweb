@@ -82,5 +82,40 @@ c:\xampp\htdocs\ltweb\
 
 ---
 
-## 5. Liên Hệ & Đóng Góp
+## 5. Các Chức Năng Dự Kiến (Planned Features)
+
+Hệ thống được thiết kế nhằm đáp ứng nhu cầu kết nối giữa Sinh viên và Giảng viên với các nhóm chức năng chính bao gồm:
+
+### 👤 Phân Hệ Sinh Viên (Student)
+* **Đăng ký & Đăng nhập:** Tạo và quản lý tài khoản cá nhân sinh viên.
+* **Đặt lịch hẹn:** Đăng ký khung giờ hẹn gặp, ghi rõ lý do, nội dung cần tư vấn (có thể đính kèm tệp tài liệu).
+* **Quản lý & Theo dõi trạng thái:** Xem danh sách lịch hẹn (Chờ phê duyệt, Đã chấp nhận, Từ chối, Hoàn thành).
+
+### 👨‍🏫 Phân Hệ Giảng Viên (Lecturer)
+* **Quản lý Hồ sơ cá nhân:** Cập nhật thông tin cá nhân, văn phòng làm việc, email và giờ tiếp sinh viên cố định.
+* **Quản lý Lịch rảnh (Schedule Availability):** Chủ động thiết lập, mở/đóng các khung giờ rảnh nhận đăng ký tư vấn.
+* **Phê duyệt Lịch hẹn:** Tiếp nhận yêu cầu đặt lịch từ sinh viên, phê duyệt (Chấp nhận) hoặc Từ chối (kèm lý do / gợi ý khung giờ khác).
+* **Nhật ký & Ghi chú tư vấn:** Xem lịch sử các buổi hẹn và ghi chú lại kết quả buổi gặp.
+
+### 🛡️ Phân Hệ Quản Trị Viên (Admin)
+* **Quản lý Tài khoản & Phân quyền:** Quản lý thông tin người dùng (Sinh viên, Giảng viên), cấp quyền và mở/khóa tài khoản.
+* **Quản lý Danh mục:** Cấu hình danh sách Khoa, Bộ môn, Phòng học / Văn phòng làm việc.
+* **Báo cáo & Thống kê:** Thống kê tổng số lượt đặt lịch, tỷ lệ phản hồi của giảng viên và mức độ hoạt động của hệ thống.
+
+### 🚀 Tính Năng Nâng Cao / Mở Rộng (có thể mở rộng trong tươngl ai)
+* **Tích hợp họp trực tuyến:** Hỗ trợ chèn/tự động tạo liên kết Google Meet / Zoom cho hình thức tư vấn online.
+* **Gửi Email tự động:** Thông báo qua email (PHPMailer) khi lịch hẹn được đăng ký mới hoặc thay đổi trạng thái.
+* **Đánh giá & Phản hồi (Feedback):** Sinh viên gửi đánh giá chất lượng buổi tư vấn sau khi cuộc hẹn kết thúc.
+
+### Tính năng đã làm được cho tới buổi 2
+* **Đặt lịch hẹn:** Đăng ký khung giờ hẹn gặp, ghi rõ lý do, nội dung cần tư vấn (có thể đính kèm tệp tài liệu). 
+* **Quản lý & Theo dõi trạng thái:** Xem danh sách lịch hẹn (Chờ phê duyệt, Đã chấp nhận, Từ chối, Hoàn thành).
+* TK được giao diện form đăng ký.
+* Quản lý được dữ liệu đăng ký nhập vào.
+* Hiển thị được danh sách những sinh viên đã nhập thông tin.
+
+---
+
+## 6. Liên Hệ & Đóng Góp
 Nếu có thắc mắc hoặc cần góp ý cho dự án, vui lòng truy cập [Repository GitHub](https://github.com/Minhlynek/ltweb) hoặc liên hệ nhóm phát triển.
+
