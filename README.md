@@ -60,13 +60,13 @@ Sau khi Apache & MySQL đã khởi chạy thành công, hãy mở trình duyệt
 
 ---
 
-## 3. Thành Viên Nhóm Phát Triển
+## 3. Thành Viên Nhóm Phát Triển 
 
 1. **Lê Thị Minh Lý** *(Trưởng Nhóm)* - Fullstack Developer & Quản lý dự án
-2. **Lê Phương Anh** - Frontend Developer (UI/UX)
+2. **Lê Phương Anh** - Tester & Soạn thảo Tài liệu
 3. **Lê Khánh Linh** - Backend Developer & Quản lý cơ sở dữ liệu
-4. **Nguyễn Quang Nghĩa** - Backend Developer & Xử lý Bảo mật
-5. **Đỗ Quang Anh** - QA / Tester & Soạn thảo Tài liệu
+4. **Nguyễn Quang Nghĩa** - Backend Developer & Xử lý Bảo mật (tạm thời)
+5. **Đỗ Quang Anh** -Tester & Soạn thảo Tài liệu/ UI
 
 ---
 
