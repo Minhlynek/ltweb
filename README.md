@@ -107,7 +107,7 @@ Hệ thống được thiết kế nhằm đáp ứng nhu cầu kết nối gi�
 * **Gửi Email tự động:** Thông báo qua email (PHPMailer) khi lịch hẹn được đăng ký mới hoặc thay đổi trạng thái.
 * **Đánh giá & Phản hồi (Feedback):** Sinh viên gửi đánh giá chất lượng buổi tư vấn sau khi cuộc hẹn kết thúc.
 
-### Tính năng đã làm được cho tới buổi 2
+### Tính năng đã làm được cho tới buổi 3
 * **Đặt lịch hẹn:** Đăng ký khung giờ hẹn gặp, ghi rõ lý do, nội dung cần tư vấn (có thể đính kèm tệp tài liệu). 
 * **Quản lý & Theo dõi trạng thái:** Xem danh sách lịch hẹn (Chờ phê duyệt, Đã chấp nhận, Từ chối, Hoàn thành).
 * TK được giao diện form đăng ký.
